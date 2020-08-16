@@ -23,6 +23,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uncagedmist&show_icons=true" alt="uncagedmist" /></p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p align="center">
+<a href="https://medium.com/@uncagedmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uncagedmist" height="30" width="30" /></a>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCoHz2UDpbd9lWoZznZrdj9A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tech byte care" height="30" width="30" /></a>
 </p>
