@@ -19,6 +19,17 @@
 
 - ⚡ Fun fact **I love to listen song**
 
+### Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -48,6 +59,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  
+  <br />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uncagedmist&show_icons=true" alt="uncagedmist" /></p>
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncagedmist&layout=compact&hide=html" alt="uncagedmist" /></p>
@@ -71,3 +84,9 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCoHz2UDpbd9lWoZznZrdj9A" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tech byte care" height="30" width="30" /></a>
 </p>
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/TechByteCare
+[youtube]: https://youtube.com/channel/UCoHz2UDpbd9lWoZznZrdj9A
+[instagram]: https://instagram.com/TechByteCare
+[linkedin]: https://linkedin.com/in/codeSTACKr
