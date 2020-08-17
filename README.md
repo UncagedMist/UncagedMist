@@ -24,6 +24,11 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uncagedmist&show_icons=true" alt="uncagedmist" /></p>
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncagedmist&layout=compact&hide=html" alt="uncagedmist" /></p>
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
