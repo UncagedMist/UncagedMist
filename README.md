@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kundan</h1>
+<h1 align="center">Hi 👋, I'm Kundan - aka [UncagedMist][website]</h1>
 <h3 align="center">I'm a Student, App Developer, and Game Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncagedmist" alt="uncagedmist" /> </p>
@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
+- 🔭 I’m currently working on a [Android Development Course][website]!
+
 - 👯 I’m looking to collaborate with **Developers & Content Creators**
+
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 - 🤝 I’m looking for help with **Android Studio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/UncagedMist](https://github.com/UncagedMist)
+- 👨‍💻 All of my projects are available at [Github][website]!
 
 - 💬 Ask me about **Android Studio Frontend & Backend 👍**
 
@@ -19,12 +23,15 @@
 
 - ⚡ Fun fact **I love to listen song**
 
+
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="UncagedMist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="UncagedMist | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="UncagedMist | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="UncagedMist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="UncagedMist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -62,31 +69,30 @@
   
   <br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=uncagedmist&show_icons=true" alt="uncagedmist" /></p>
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncagedmist&layout=compact&hide=html" alt="uncagedmist" /></p>
+---
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
-- [25 Awesome Website and App UI Design ideas](https://www.youtube.com/watch?v=VUSMcUnQOkA)
-- [Flutter UI Design : Infinite Sticky List](https://www.youtube.com/watch?v=RigmyeBfGGg)
-- [Flutter Payments  : Card Details Fill UI Design](https://www.youtube.com/watch?v=-Go0Pgv1c-Q)
-- [Flutter Shimmer Animation Implementation : Speed Code](https://www.youtube.com/watch?v=mYIkMkSeAsk)
-- [Flutter On-Boarding Design UI : Speed Code](https://www.youtube.com/watch?v=RDsDsGBP7t4)
 <!-- YOUTUBE:END -->
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+---
+
+
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START →
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p align="left">
-<a href="https://medium.com/@uncagedmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uncagedmist" height="30" width="30" /></a>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCoHz2UDpbd9lWoZznZrdj9A" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tech byte care" height="30" width="30" /></a>
-</p>
+---
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/TechByteCare
-[youtube]: https://youtube.com/channel/UCoHz2UDpbd9lWoZznZrdj9A
-[instagram]: https://instagram.com/TechByteCare
-[linkedin]: https://linkedin.com/in/codeSTACKr
+<img align="left" alt="UncagedMistr's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagdmist&show_icons=true&hide_border=true" />
+
+[website]: https://github.com/UncagedMist
+[twitter]: https://twitter.com/UncagedMist
+[youtube]: https://www.youtube.com/c/TeChByTeCaReByKK
+[instagram]: https://instagram.com/uncagedmist
+[linkedin]: https://linkedin.com/in/uncagedmist
+[FlutterPlaylist]: https://www.youtube.com/playlist?list=PLBYLctkttE9mOgSEVVjIU0Np3UfcJmGRt
+[ChatBotPlaylist]: https://www.youtube.com/playlist?list=PLBYLctkttE9krFN1BZOvwHQrnSAs1qc7g
+[NotificationPlaylist]: https://www.youtube.com/playlist?list=PLBYLctkttE9ntjX6Nuoc3TrYrsdUGi-iw
+[SQL-Playlist]: https://www.youtube.com/playlist?list=PLBYLctkttE9mnbX-ZsCPZJRXiPh4NYCSV
