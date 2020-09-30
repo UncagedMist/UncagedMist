@@ -71,21 +71,19 @@
 
 ---
 
+<img align="left" alt="UncagedMist's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagedmist&show_icons=true&hide_border=true" />
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 ---
 
-
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START →
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="UncagedMistr's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagdmist&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/UncagedMist
 [twitter]: https://twitter.com/UncagedMist
