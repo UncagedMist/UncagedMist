@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **I love to listen song**
 
-
 ### Connect with me:
 
 [<img align="left" alt="UncagedMist" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -32,8 +31,10 @@
 [<img align="left" alt="UncagedMist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="UncagedMist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br />
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Languages and Tools:
 
@@ -76,22 +77,25 @@ details>
   <img align="left" alt="UncagedMist's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagedmist&show_icons=true&hide_border=true" />
 </details>
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [25 Awesome Website and App UI Design ideas](https://www.youtube.com/watch?v=VUSMcUnQOkA)
-- [Flutter UI Design : Infinite Sticky List](https://www.youtube.com/watch?v=RigmyeBfGGg)
-- [Flutter Payments  : Card Details Fill UI Design](https://www.youtube.com/watch?v=-Go0Pgv1c-Q)
-- [Flutter Shimmer Animation Implementation : Speed Code](https://www.youtube.com/watch?v=mYIkMkSeAsk)
-- [Flutter On-Boarding Design UI : Speed Code](https://www.youtube.com/watch?v=RDsDsGBP7t4)
 <!-- YOUTUBE:END -->
+➡️ [more videos...](https://youtube.com/c/TeChByTeCaReByKK)
 
 ---
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START →
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...][twitter]
 
 ---
 
