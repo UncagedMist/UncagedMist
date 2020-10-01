@@ -25,8 +25,6 @@
 
 - ⚡ Fun fact **I love to listen song**
 
-<br />
-
 ---
 
 ### Connect with me:
@@ -37,8 +35,7 @@
 [<img align="left" alt="UncagedMist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="UncagedMist | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
+---
 ### Spotify Playing 🎧
 [<img src="https://novatorem.uncagedmist.vercel.app/api/spotify-playing" alt="uncagedmist Spotify Playing" width="350" />](https://open.spotify.com/user/66rgmhrmpj58wj66r26b30u3c)
 
