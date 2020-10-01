@@ -3,6 +3,8 @@
 
 <br />
 
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncagedmist" alt="uncagedmist" /> </p>
 
 - 🔭 I’m currently working on [Android Studio](App & Game Development)
@@ -24,6 +26,10 @@
 - 📫 How to reach me **Kundan_kk52@outlook.com**
 
 - ⚡ Fun fact **I love to listen song**
+
+<br />
+
+---
 
 ### Connect with me:
 
