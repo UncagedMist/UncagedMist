@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kundan - aka UncagedMist!</h1>
 <h3 align="center">I'm a Student, App Developer, and Game Developer!</h3>
-<br />
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncagedmist" alt="uncagedmist" /> </p>
