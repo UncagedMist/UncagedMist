@@ -115,8 +115,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-  <br />
-
 ---
 
 <h1 align="center">
