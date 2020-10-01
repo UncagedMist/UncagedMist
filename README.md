@@ -79,22 +79,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="UncagedMist's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagedmist&show_icons=true&hide_border=true" />
-</details>
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
-
-  <br />
-
----
-
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [25 Awesome Website and App UI Design ideas](https://www.youtube.com/watch?v=VUSMcUnQOkA)
@@ -111,6 +95,21 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][twitter]
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" alt="UncagedMist's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagedmist&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
+  <br />
 
 ---
 
