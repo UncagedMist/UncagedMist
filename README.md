@@ -39,6 +39,11 @@
 ---
 
 ### Spotify Playing 🎧
+
+<a href="https://now-playing-profile.uncagedmist.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile.uncagedmist.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 [<img src="https://now-playing-profile.uncagedmist.vercel.app/api/spotify-playing" alt="uncagedmist Spotify Playing" width="350" />](https://open.spotify.com/user/66rgmhrmpj58wj66r26b30u3c)
 
 ---
