@@ -83,6 +83,7 @@ details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="UncagedMist's Github Stats" src="https://github-readme-stats.uncagedmist.vercel.app//api?username=uncagedmist&show_icons=true&hide_border=true" />
 </details>
+  <br />
 
 ---
 
@@ -91,6 +92,7 @@ details>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
+  <br />
 
 ---
 
