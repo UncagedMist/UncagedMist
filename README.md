@@ -3,9 +3,10 @@
 <br />
 
 ---
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncagedmist" alt="uncagedmist" /> </p>
+<br />
 
+---
 - 🔭 I’m currently working on [Android Studio](App & Game Development)
 
 - 🌱 I’m currently learning **Everything 🤣**
