@@ -119,6 +119,10 @@
 
 ---
 
+<h1 align="center">
+👾 👾 👾 <img alt="OmegaSpartanSP" src="https://github.com/UncagedMist/UncagedMist/blob/master/img/hop.gif" height="100px"> 👾 👾 👾
+</h1>
+
 [website]: https://github.com/UncagedMist
 [twitter]: https://twitter.com/UncagedMist
 [youtube]: https://www.youtube.com/c/TeChByTeCaReByKK
