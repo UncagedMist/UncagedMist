@@ -111,12 +111,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [App Open Ad Implementation : Android Studio](https://medium.com/@UncagedMist/app-open-ad-implementation-android-studio-f4432d1179a8?source=rss-a0b029408371------2)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...][medium]
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://medium.com/@uncagedmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uncagedmist" height="30" width="40" /></a>
-</p>
+➡️ [more blog posts...](https://medium.com/@uncagedmist)
 
 ---
 
@@ -136,6 +131,7 @@
 [twitter]: https://twitter.com/UncagedMist
 [youtube]: https://www.youtube.com/c/TeChByTeCaReByKK
 [instagram]: https://instagram.com/uncagedmist
+[medium]: https://medium.com/@uncagedmist
 [linkedin]: https://linkedin.com/in/uncagedmist
 [FlutterPlaylist]: https://www.youtube.com/playlist?list=PLBYLctkttE9mOgSEVVjIU0Np3UfcJmGRt
 [ChatBotPlaylist]: https://www.youtube.com/playlist?list=PLBYLctkttE9krFN1BZOvwHQrnSAs1qc7g
