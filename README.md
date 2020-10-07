@@ -109,6 +109,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [App Open Ad Implementation : Android Studio](https://medium.com/@UncagedMist/app-open-ad-implementation-android-studio-f4432d1179a8?source=rss-a0b029408371------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...][medium]
 
