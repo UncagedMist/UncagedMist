@@ -5,25 +5,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncagedmist" alt="uncagedmist" /> </p>
 
 ---
-- 🔭 I’m currently working on [Android Studio](App & Game Development)
+- 🔭 I’m currently working on **[Android Studio](App & Game Development)**
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 🔭 I’m currently working on a [Android Development Course][website]!
+- 🔭 I’m currently working on a **[Android Development Course][website]!**
 
 - 👯 I’m looking to collaborate with **Developers & Content Creators**
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to **Open Source projects**
 
 - 🤝 I’m looking for help with **Android Studio**
 
-- 👨‍💻 All of my projects are available at [Github][website]!
+- 👨‍💻 All of my projects are available at **[Github][website]!**
 
 - 💬 Ask me about **Android Studio Frontend & Backend 👍**
 
 - 📫 How to reach me **Kundan_kk52@outlook.com**
 
-- ⚡ Fun fact **I love to listen song**
+- ⚡ Fun fact **I love to listen songs**
 
 ---
 
