@@ -111,24 +111,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uncagedmist" alt="uncagedmist" /> </p>
 
-### Blogs posts
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...][medium]
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://medium.com/@uncagedmist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uncagedmist" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncagedmist&layout=compact" alt="uncagedmist" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uncagedmist&show_icons=true" alt="uncagedmist" /></p>
-
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...][twitter]
 
 ---
 
