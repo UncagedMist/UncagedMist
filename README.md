@@ -25,6 +25,10 @@
 
 - ⚡ Fun fact **Spend lot of time watching comedies.**
 
+### Spotify Playing 🎧
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=66rgmhrmpj58wj66r26b30u3c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=66rgmhrmpj58wj66r26b30u3c&cover_image=true&theme=novatorem&show_offline=true&background_color=686464&bar_color=53b14f&bar_color_cover=true)]]
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
